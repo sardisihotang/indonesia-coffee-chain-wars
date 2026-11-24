@@ -1,0 +1,5 @@
+customer_brand_loyalty_tier,jumlah_record,total_cup,total_estimasi_pendapatan,rata_diskon_pct,rata_rating,rata_margin_estimasi_pct
+Value-Conscious-Regular,5827,3214532,49020500740,21.83,4.51,31.21
+Promo-Chaser-Opportunist,4539,2981231,32051080980,38.65,4.54,23.96
+Die-Hard-Loyalist,1780,835536,16182641034,9.84,4.71,36.49
+At-Risk-Churn-Switcher,854,456391,7664196819,16.28,4.0,32.83

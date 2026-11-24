@@ -1,0 +1,7 @@
+Pemeriksaan,Hasil,Keterangan
+Jumlah baris,13000,13.000 record
+Jumlah kolom,26,26 kolom
+Nilai kosong,0,Tidak ditemukan nilai kosong
+Duplikat seluruh baris,0,Tidak ditemukan baris duplikat identik
+Duplikat store_transaction_id,0,ID transaksi unik pada seluruh record
+Jumlah ID transaksi unik,13000,Sama dengan jumlah baris
